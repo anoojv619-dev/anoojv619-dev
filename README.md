@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Anooj V 👋
 
-<!--
-**anoojv619-dev/anoojv619-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Full Stack Developer with 3 years of enterprise experience
+building enterprise management systems for US clients at Infosys.
+🔧 My Stack
 
-Here are some ideas to get you started:
+Backend: C# · ASP.NET Core 8 · Web API · Entity Framework Core · MediatR · JWT
+Frontend: Angular 17 · TypeScript · RxJS · Bootstrap
+Database: SQL Server · T-SQL · Stored Procedures
+Cloud & DevOps: Azure · Docker · Azure DevOps · Git
+Testing: xUnit · Moq
+🌍 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🔭 Building: [Task Management API — Clean Architecture + Angular]
+    🌱 Learning: Docker · MediatR · Clean Architecture
+    💼 Open to: Remote full-time .NET roles
+    📫 Reach me: [www.linkedin.com/in/anooj-v-46b215201]
